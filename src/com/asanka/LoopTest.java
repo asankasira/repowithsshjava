@@ -19,6 +19,8 @@ public class LoopTest {
 		for (int i : arr) {
 			System.out.println(i);
 		}
+		
+	    System.out.println("done!");
 	}
 
 }
