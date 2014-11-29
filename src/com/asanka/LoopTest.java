@@ -55,6 +55,7 @@ public class LoopTest {
 			
 		}
 	    
+	    //Not suitable for remove entry while looping
 	    for (String string : list) {
 			
 	    	if("Wed".equals(string))
